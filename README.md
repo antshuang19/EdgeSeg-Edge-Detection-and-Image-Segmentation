@@ -49,31 +49,18 @@ The image segmentation section explores k-means clustering and texton-based segm
 
 The dataset used includes various images and segmentation results. The results from the edge detection and image segmentation tasks are shown in the following images:
 
-#### Edge Detection Results
+#### Results
 - **Figure 1**: Edge Detection Result 1  
-  ![Edge Result 1](result/1.png)
+  ![Result 1](result/1.png)
 
 - **Figure 2**: Edge Detection Result 2  
-  ![Edge Result 2](result/2.png)
+  ![Result 2](result/2.png)
 
 - **Figure 3**: Edge Detection Result 3  
-  ![Edge Result 3](result/3.png)
+  ![Result 3](result/3.png)
 
 - **Figure 4**: Edge Detection Result 4  
-  ![Edge Result 4](result/4.png)
-
-#### Image Segmentation Results
-- **Figure 5**: Segmentation Result 1  
-  ![Segmentation Result 1](result/1.png)
-
-- **Figure 6**: Segmentation Result 2  
-  ![Segmentation Result 2](result/2.png)
-
-- **Figure 7**: Segmentation Result 3  
-  ![Segmentation Result 3](result/3.png)
-
-- **Figure 8**: Segmentation Result 4  
-  ![Segmentation Result 4](result/4.png)
+  ![Result 4](result/4.png)
 
 ## Files Overview
 
